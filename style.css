@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(187, 237, 237);
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#input{
+    height: 2rem;
+    border: 2px solid rgb(135, 17, 219);
+    border-radius: 1.5rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+.btn1{
+    margin-top: 5rem;
+    
+}
+p{
+    font-weight: 600;
+    font-size: large;
+
+}
+.mr{
+    margin-left:3rem ;
+    border: 2px solid rgb(135, 17, 219);
+    background-color: rgb(214, 169, 105) ;
+    border-radius: 1rem;
+    height: 2rem;
+}
+.mr2{
+    margin-left:2rem ;
+    border: 2px solid rgb(135, 17, 219);
+    background-color: rgb(214, 169, 105);
+    border-radius: 1rem;
+    height: 2rem;
+}
+.h1sty{
+    margin: 4rem;
+}
